@@ -12,7 +12,7 @@ I love building things that live at the intersection of **AI, backend engineerin
 ---
 
 ## 🚀 What I’m Working On
-- Building a **Student Retention Module** (FastAPI + Azure + on-prem DB)
+- Building a **Student Retention Module** (React MaterialUI + FastAPI + Azure + on-prem DB)
 - Experimenting with **AI-driven action item suggestions** for academic advisors
 - Deploying ETL workflows with **Prefect & Docker**
 
