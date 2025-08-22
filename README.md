@@ -7,23 +7,7 @@ I build things across the stack — from **Material UI frontends in React** to *
 To be real:  
 - I’m **solid on frontend (React, Material UI, design systems)** and backend APIs.  
 - I’m **good with advanced ML algorithms** (ensembles, boosting, optimization).  
-- I haven’t fully jumped into **deep learning** yet — but it’s on my roadmap.  
-
----
-
-## 🎨 Frontend Superpowers
-- ⚛️ React (hooks, context, state management)  
-- 🎨 Material UI (custom theming, component composition, responsive design)  
-- ⚡ Building dashboards, student-facing apps, and admin panels  
-
----
-
-## ⚙️ Backend & Cloud Side
-- 🐍 FastAPI, Next js APIs  
-- 🗄️ PostgreSQL & SQLAlchemy  
-- 🐳 Dockerized workflows  
-- ☁️ Azure + Cloudflare tunnels  
-- ⚡ Prefect ETL flows  
+- I haven’t fully jumped into **deep learning** yet — but it’s on my roadmap.
 
 ---
 
@@ -35,6 +19,22 @@ To be real:
 
 </div>
 
+---
+
+## 🛠️ Fullstack Powers (Frontend + Backend + Cloud)
+
+- 🎨 **Frontend Magic**
+  - ⚛️ React (hooks, context, state mismanagement™)  
+  - 🎨 Material UI (custom themes, component wrangling, responsive dashboards)  
+  - 📊 Building dashboards, student-facing apps, and admin panels that don’t crash (too often)  
+
+- ⚙️ **Backend & Cloud Chaos**
+  - 🐍 FastAPI & Next.js APIs (because REST never rests)  
+  - 🗄️ PostgreSQL & SQLAlchemy (aka my love/hate relationship)  
+  - 🐳 Dockerized workflows (it works on my machine™ … and yours)  
+  - ☁️ Azure + Cloudflare tunnels (cloud bills with extra steps)  
+  - ⚡ Prefect ETL flows (because cron jobs are for peasants)
+  - 
 ---
 
 ## 🎓 Continuing Education-ish
