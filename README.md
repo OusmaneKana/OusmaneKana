@@ -10,6 +10,13 @@ I love building things that live at the intersection of **AI, backend engineerin
 - 🎓 EdTech solutions (student retention analytics, LMS integrations)
 
 ---
+## 🎓 Education-ish
+- 🏫 School of Hard Knocks (graduated with honors in Stack Overflow browsing)  
+- 🤓 Ongoing degree in “Google It Until It Works”  
+- 🎮 Minor in “Breaking Production on Fridays”  
+- 💡 But for real — I actually study. Proof 👉 [My Coursera Profile](https://www.coursera.org/user/59cb28ec4f00d66a678e649a7e102e6a)  
+
+---
 
 ## 🚀 What I’m Working On
 - Building a **Student Retention Module** (React MaterialUI + FastAPI + Azure + on-prem DB)
@@ -47,7 +54,9 @@ I love building things that live at the intersection of **AI, backend engineerin
 ## 🌱 Currently Learning
 - Advanced ML techniques (**Meta-learning, Reinforcement Learning**)
 - Secure API design with **Azure Entra (OAuth / JWT)**  
-- **Cloud automation** with Prefect, Docker, and Cloudflare tunnels  
+- **Cloud automation** with Prefect, Docker, and Cloudflare tunnels
+
+
 
 ---
 
