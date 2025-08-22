@@ -1,43 +1,29 @@
-
 # 👋 Hi, I’m Serigne Ciss  
 
-💻 **Software Engineer | AI & ML Enthusiast | Cloud & DevOps Explorer**  
+💻 **Fullstack Software Engineer | ML Explorer | Cloud & DevOps Practitioner**  
 
-I love building things that live at the intersection of **AI, backend engineering, and automation**. Most of my recent work involves:
-- 🧠 Machine Learning / LLMs (fine-tuning, embeddings, reinforcement learning)
-- ⚡ Backend APIs with FastAPI & Node.js
-- ☁️ Cloud & Infra (Azure, Docker, Prefect, PostgreSQL)
-- 🎓 EdTech solutions (student retention analytics, LMS integrations)
+I build things across the stack — from **Material UI frontends in React** to **FastAPI + PostgreSQL backends**, wrapped in Docker and deployed in Azure.  
 
----
-## 🎓 Education-ish
-- 🏫 School of Hard Knocks (graduated with honors in Stack Overflow browsing)  
-- 🤓 Ongoing degree in “Google It Until It Works”  
-- 🎮 Minor in “Breaking Production on Fridays”  
-- 💡 But for real — I actually study. Proof 👉 [My Coursera Profile](https://www.coursera.org/user/59cb28ec4f00d66a678e649a7e102e6a)  
+To be real:  
+- I’m **solid on frontend (React, Material UI, design systems)** and backend APIs.  
+- I’m **good with advanced ML algorithms** (ensembles, boosting, optimization).  
+- I haven’t fully jumped into **deep learning** yet — but it’s on my roadmap.  
 
 ---
 
-## 🚀 What I’m Working On
-- Building a **Student Retention Module** (React MaterialUI + FastAPI + Azure + on-prem DB)
-- Experimenting with **AI-driven action item suggestions** for academic advisors
-- Deploying ETL workflows with **Prefect & Docker**
+## 🎨 Frontend Superpowers
+- ⚛️ React (hooks, context, state management)  
+- 🎨 Material UI (custom theming, component composition, responsive design)  
+- ⚡ Building dashboards, student-facing apps, and admin panels  
 
 ---
 
-## 🛠️ Tech Toolbox
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
-![Prefect](https://img.shields.io/badge/-Prefect-000000?logo=prefect&logoColor=white&style=flat-square)
-
-</div>
+## ⚙️ Backend & Cloud Side
+- 🐍 FastAPI, Next js APIs  
+- 🗄️ PostgreSQL & SQLAlchemy  
+- 🐳 Dockerized workflows  
+- ☁️ Azure + Cloudflare tunnels  
+- ⚡ Prefect ETL flows  
 
 ---
 
@@ -51,20 +37,47 @@ I love building things that live at the intersection of **AI, backend engineerin
 
 ---
 
+## 🎓 Continuing Education-ish
+- 🏫 School of Hard Knocks (graduated with honors in Stack Overflow browsing)  
+- 🤓 Currently majoring in “Advanced ML Without Burning My GPU”  
+- 🎮 Minor in “Breaking Production on Fridays”  
+- 💡 For real though — I’m actively learning. Proof 👉 [My Coursera Profile](https://www.coursera.org/user/59cb28ec4f00d66a678e649a7e102e6a)  
+
+---
+
+## 🚀 What I’m Working On
+- A **Student Retention Module** (React MaterialUI + FastAPI + Azure + on-prem DB)  
+- AI-driven **advisor dashboards** with actionable insights  
+- Automating ETL workflows with **Prefect & Docker**  
+
+---
+
+## 🛠️ Tech Toolbox
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-007FFF?logo=mui&logoColor=white&style=flat-square)
+![Prefect](https://img.shields.io/badge/-Prefect-000000?logo=prefect&logoColor=white&style=flat-square)
+
+</div>
+
+---
+
 ## 🌱 Currently Learning
-- Advanced ML techniques (**Meta-learning, Reinforcement Learning**)
+- Advanced ML techniques (ensembles, boosting, optimization — deep learning next)  
 - Secure API design with **Azure Entra (OAuth / JWT)**  
-- **Cloud automation** with Prefect, Docker, and Cloudflare tunnels
-
-
+- **Cloud automation** with Prefect, Docker, and Cloudflare tunnels  
 
 ---
 
 ## 📫 Let’s Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/serigne-ousmane-kana/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/serigne-ousmane-kana/)  
 - ✍️ [Medium](https://medium.com/@ousmanekanaciss)  
 - 📧 ousmanekanaciss@gmail.com  
 
 ---
-
-✨ _“Code, break, learn, repeat — that’s how progress happens.”_  
