@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Serigne Ousmane Kana Ciss (you can call me Usman)  
+# 👋 Hi, I’m Usman
 
 💻 **Fullstack Software Engineer | ML Explorer | Cloud & DevOps Practitioner**  
 
