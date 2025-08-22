@@ -22,22 +22,6 @@ To keep it real:
 
 ---
 
-## 🛠️ Fullstack Powers (Frontend + Backend + Cloud)
-
-- 🎨 **Frontend Magic**
-  - ⚛️ React (hooks, context, state mismanagement™)  
-  - 🎨 Material UI (custom themes, component wrangling, responsive dashboards)  
-  - 📊 Building dashboards, student-facing apps, and admin panels that don’t crash (too often)  
-
-- ⚙️ **Backend & Cloud Chaos**
-  - 🐍 FastAPI & Next.js APIs (because REST never rests)  
-  - 🗄️ PostgreSQL & SQLAlchemy (aka my love/hate relationship)  
-  - 🐳 Dockerized workflows (it works on my machine™ … and yours)  
-  - ☁️ Azure + Cloudflare tunnels (cloud bills with extra steps)  
-  - ⚡ Prefect ETL flows (because cron jobs are for peasants)
-  - 
----
-
 ## 🎓 Continuing Education-ish
 - 🏫 School of Hard Knocks (graduated with honors in Stack Overflow browsing)  
 - 🤓 Currently majoring in “Advanced ML Without Burning My GPU”  
