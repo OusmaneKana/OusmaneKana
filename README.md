@@ -4,10 +4,11 @@
 
 I build things across the stack — from **Material UI frontends in React** to **FastAPI + PostgreSQL backends**, wrapped in Docker and deployed in Azure.  
 
-To be real:  
-- I’m **solid on frontend (React, Material UI, design systems)** and backend APIs.  
-- I’m **good with advanced ML algorithms** (ensembles, boosting, optimization).  
-- I haven’t fully jumped into **deep learning** yet — but it’s on my roadmap.
+To keep it real:  
+- 🔧 I’m **solid on full-stack development** — from frontend polish to backend guts.  
+- 🚀 I can take a business idea from **code to cloud production**, handling the DevOps in between (CI/CD, Docker, Azure, you name it).  
+- 📊 I’m **comfortable with advanced ML algorithms** (ensembles, boosting, optimization).  
+- 🧠 I haven’t fully dived into **deep learning** yet — but it’s next on the roadmap.  
 
 ---
 
