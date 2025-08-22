@@ -54,7 +54,7 @@ I love building things that live at the intersection of **AI, backend engineerin
 ## 📫 Let’s Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/serigne-ousmane-kana/)
 - ✍️ [Dev.to](https://dev.to/YOUR-USERNAME) (blog soon)  
-- 📧 serigneciss@example.com  
+- 📧 ousmanekanaciss@gmail.com  
 
 ---
 
