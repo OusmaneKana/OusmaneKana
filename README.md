@@ -12,16 +12,6 @@ To keep it real:
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ousmanekana)](https://github.com/ousmanekana/github-readme-stats)
-
-
-</div>
-
----
-
 ## 🎓 Continuing Education-ish
 - 🏫 School of Hard Knocks (graduated with honors in Stack Overflow browsing)  
 - 🤓 Currently majoring in “Advanced ML Without Burning My GPU”  
