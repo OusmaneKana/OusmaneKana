@@ -15,8 +15,7 @@ To keep it real:
 ## 📊 GitHub Stats
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ousmanekana&show_icons=true&theme=tokyonight&v=1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ousmanekana&layout=compact&theme=tokyonight&v=1)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ousmanekana&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 </div>
@@ -27,7 +26,7 @@ To keep it real:
 - 🏫 School of Hard Knocks (graduated with honors in Stack Overflow browsing)  
 - 🤓 Currently majoring in “Advanced ML Without Burning My GPU”  
 - 🎮 Minor in “Breaking Production on Fridays”  
-- 💡 For real though — I’m actively learning. Proof 👉 [My Coursera Profile](https://www.coursera.org/user/59cb28ec4f00d66a678e649a7e102e6a)  
+- 💡 For real though — I’m actively learning. 👉 [My Coursera Profile](https://www.coursera.org/user/59cb28ec4f00d66a678e649a7e102e6a)  
 
 ---
 
@@ -56,8 +55,6 @@ To keep it real:
 
 ## 🌱 Currently Learning
 - Advanced ML techniques (ensembles, boosting, optimization — deep learning next)  
-- Secure API design with **Azure Entra (OAuth / JWT)**  
-- **Cloud automation** with Prefect, Docker, and Cloudflare tunnels  
 
 ---
 
