@@ -15,7 +15,7 @@ To keep it real:
 ## 📊 GitHub Stats
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OusmaneKana&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ousmanekana)](https://github.com/ousmanekana/github-readme-stats)
 
 
 </div>
