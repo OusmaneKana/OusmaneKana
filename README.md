@@ -15,8 +15,8 @@ To keep it real:
 ## 📊 GitHub Stats
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ousmanekana&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ousmanekana&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ousmanekana&show_icons=true&theme=tokyonight&v=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ousmanekana&layout=compact&theme=tokyonight&v=1)
 
 
 </div>
